@@ -1,6 +1,6 @@
 
 # heyhowareya 
-Building and interested in Bitcoin & nostr. I work at [BlockSpaces](https:/blockspaces.com/), co-founder of [Bitcoin Bay](https://bitcoinbay.live), and building Bay Wallet 🌴.
+i like the orange coin & nostr. Buidlin' at [BlockSpaces](https:/blockspaces.com), co-founder of [Bitcoin Bay](https://bitcoinbay.live), and Bay Wallet 🌴.
 
 - 🌐 Visit my [website](https://rollerhodl.me) for more information and to get in touch.
 - 😍 Follow me on [nostr](https://primal.net/p/npub18uv56l84ck0v5q29a4uqfu9x0sxvz7m0766t6kzcyytqmnua0pdswydr2y)
