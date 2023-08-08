@@ -4,7 +4,7 @@ i like the orange coin & nostr & playing hockey. Buidlin' at [BlockSpaces](https
 
 - 🌐 Visit my professionally designed [website](https://rollerhodl.me).
 - 🍻 [nostr](https://primal.net/p/npub18uv56l84ck0v5q29a4uqfu9x0sxvz7m0766t6kzcyytqmnua0pdswydr2y)
-- [bird app](https://twitter.com/bennyhodl).
+- [bird app](https://twitter.com/bennyhodl)
 ---
 
 <p align="center">
