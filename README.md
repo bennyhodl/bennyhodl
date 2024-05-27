@@ -2,7 +2,7 @@
 # heyhowareya 
 building dlc application tooling & playing hockey. Co-founder of [Bitcoin Bay](https://bitcoinbay.foundation). can be seen roller bladin' downtown tampa.
 
-- [website](https://rollerhodl.me).
+- [website](https://rollerhodl.me)
 - [bird app](https://twitter.com/bennyhodl)
 ---
 
